@@ -1,0 +1,10 @@
+C:\Users\Administrator\Downloads\PsdPluginVB\obj\Release\Photoshop.vbproj.AssemblyReference.cache
+C:\Users\Administrator\Downloads\PsdPluginVB\obj\Release\Photoshop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Administrator\Downloads\PsdPluginVB\obj\Release\Photoshop.vbproj.CoreCompileInputs.cache
+C:\Users\Administrator\Downloads\PsdPluginVB\bin\Release\Photoshop.deps.json
+C:\Users\Administrator\Downloads\PsdPluginVB\bin\Release\Photoshop.dll
+C:\Users\Administrator\Downloads\PsdPluginVB\bin\Release\Photoshop.pdb
+C:\Users\Administrator\Downloads\PsdPluginVB\obj\Release\Photoshop.dll
+C:\Users\Administrator\Downloads\PsdPluginVB\obj\Release\refint\Photoshop.dll
+C:\Users\Administrator\Downloads\PsdPluginVB\obj\Release\Photoshop.pdb
+C:\Users\Administrator\Downloads\PsdPluginVB\obj\Release\ref\Photoshop.dll
